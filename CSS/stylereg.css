@@ -1,0 +1,18 @@
+body {
+    font-family: comic sans ms;
+    background-color: aqua;
+}
+input {
+    font-family: comic sans ms;
+}
+.button {
+    font-family: comic sans ms;
+    background-color: rgb(36, 0, 199);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
